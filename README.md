@@ -1,1 +1,1 @@
-# deeplearing-AlexNet
+本链接中给出使用Jupyter Notebook中跑出的AlexNet的完整代码，以及分类结果submission，如需运行此代码，需将数据集放在与代码相同文件目录下的‘emoji’文件夹中，即可运行。
